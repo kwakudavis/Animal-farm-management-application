@@ -1,3 +1,5 @@
+This a console C++ Application that performs Animal farm management.
+
 # Animal-farm-management-application
 This a console C++ Application that performs Animal farm management.
 
